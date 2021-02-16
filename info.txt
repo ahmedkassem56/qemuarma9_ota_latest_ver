@@ -1,0 +1,4 @@
+1.0.1
+https://sourceforge.net/projects/yocto-qemuarma9-ota/files/new_ota.tar.bz2/download
+ff5df8eaad6572e5bb6a59abf3777662
+
