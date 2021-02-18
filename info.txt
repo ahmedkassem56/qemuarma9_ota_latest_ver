@@ -1,5 +1,5 @@
-1.0.3
-https://sourceforge.net/projects/yocto-qemuarma9-ota/files/ota_v1.0.3.tar.bz2/download
-8c0fd19afa51e45e997a11b50c875fb5
+1.0.4
+https://sourceforge.net/projects/yocto-qemuarma9-ota/files/ota_v1.0.4.tar.bz2/download
+74bb6d93c2e21632f1a6a3e9243ec46c
 
 
